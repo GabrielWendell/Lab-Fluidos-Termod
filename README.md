@@ -4,4 +4,4 @@ Repositório contendo materiais complementares elaborados pelo aluno Gabriel Wen
 ## Lista de Experimentos realizados
 
 * [Princípio de Pascal e Teorema de Stevin.](https://github.com/GabrielWendell/Lab-Fluidos-Termod/blob/main/Experimento%201/Princípio%20de%20Pascal%20%26%20Teo.%20Stevin.ipynb)
-* [Teorema de Torricelli.]()
+* [Tempo de escoamento de um fluído.](https://github.com/GabrielWendell/Lab-Fluidos-Termod/blob/main/Experimento%202/Escoamento%20de%20um%20fluído.ipynb)
